@@ -18,7 +18,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ericflatt&show_icons=true&hide_border=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ericflatt&show_icons=true&hide_border=true" />
 
 [website]: https://bobblehaus.com
 [flux]: https://scadflux.com
