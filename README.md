@@ -1,7 +1,6 @@
 ### Hi there, i'm eric 🍞
 
 ## I'm a UX Design student at SCAD where i focus on web design and development
-- I’m currently a design intern at [Bobblehaus][website]!
 - I helped make these websites [FLUX][flux], [CoMotion 2020][comotion], [StartUp][startup]
 - I have a [blog][blog]
 - Checkout my [portfolio][portfolio]
