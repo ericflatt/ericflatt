@@ -1,7 +1,7 @@
 ### Hi there, i'm eric 🍞
 
 ## I'm a UX Design student at SCAD where i focus on web design and development
-- I helped make these websites [FLUX][flux], [CoMotion 2020][comotion], [StartUp][startup]
+- I helped make these websites [FLUX][flux],[CoMotion 2021][comotion2021], [CoMotion 2020][comotion], [StartUp][startup]
 - I have a [blog][blog]
 - Checkout my [portfolio][portfolio]
 
@@ -21,7 +21,8 @@
 
 [website]: https://bobblehaus.com
 [flux]: https://scadflux.com
-[comotion]: https://scadcomotion.com
+[comotion2021]: https://scadcomotion.com
+[comotion]: https://2020.scadcomotion.com
 [startup]: https://scadstartup.club
 [blog]: https://ericsblog.wtf
 [portfolio]: https://ericbflatt.com
