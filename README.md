@@ -1,8 +1,6 @@
 ### Hi there, i'm eric 🍞
 
-## I'm a former UX Design student at SCAD where i focus on web design and development
-- I helped make these websites [FLUX][flux], [CoMotion 2021][comotion2021], [CoMotion 2020][comotion], [StartUp][startup]
-- I have a [blog][blog]
+## I'm a UX Designer on the digital experience team at Funko
 - Checkout my [portfolio][portfolio]
 
 ### Connect with me:
@@ -19,12 +17,7 @@
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ericflatt&show_icons=true&hide_border=true" />
 
-[website]: https://bobblehaus.com
-[flux]: https://scadflux.com
-[comotion2021]: https://scadcomotion.com
-[comotion]: https://2020.scadcomotion.com
-[startup]: https://scadstartup.club
-[blog]: https://ericsblog.wtf
+
 [portfolio]: https://ericbflatt.com
 [twitter]: https://twitter.com/__flatt
 [instagram]: https://instagram.com/eric_flatt
